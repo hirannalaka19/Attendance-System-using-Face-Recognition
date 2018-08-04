@@ -20,7 +20,7 @@ import javax.swing.UIManager;
 
 /**
  *
- * @author admin
+ * 
  */
 public class AddministratorSystem extends javax.swing.JFrame {
 

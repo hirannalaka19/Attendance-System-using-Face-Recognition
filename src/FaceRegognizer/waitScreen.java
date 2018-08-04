@@ -7,7 +7,7 @@ package FaceRegognizer;
 
 /**
  *
- * @author test
+ * 
  */
 public class waitScreen extends javax.swing.JDialog {
  waitScreen waitScreen;

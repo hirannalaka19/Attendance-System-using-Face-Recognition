@@ -19,7 +19,7 @@ import javax.swing.UIManager;
 
 /**
  *
- * @author admin
+ * 
  */
 public class StudentSystem extends javax.swing.JFrame {
 

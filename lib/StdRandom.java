@@ -60,8 +60,7 @@ import java.util.Random;
  *  <i>Introduction to Programming in Java: An Interdisciplinary Approach</i>
  *  by Robert Sedgewick and Kevin Wayne.
  *
- *  @author Robert Sedgewick
- *  @author Kevin Wayne
+ *  
  *
  *  http://introcs.cs.princeton.edu/java/22library/
  */

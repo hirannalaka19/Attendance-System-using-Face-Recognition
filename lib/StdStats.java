@@ -42,8 +42,7 @@ package lib;
  *  <i>Introduction to Programming in Java: An Interdisciplinary Approach</i>
  *  by Robert Sedgewick and Kevin Wayne.
  *
- *  @author Robert Sedgewick
- *  @author Kevin Wayne
+ *  
  */
 public final class StdStats {
 

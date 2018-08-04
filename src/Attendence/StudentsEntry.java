@@ -20,7 +20,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author test
+ * 
  */
 public final class StudentsEntry extends javax.swing.JFrame {
 

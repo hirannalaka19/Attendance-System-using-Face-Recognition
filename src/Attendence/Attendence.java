@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author test
+ * 
  */
 public class Attendence {
 
