@@ -16,7 +16,7 @@ public class DatabaseConnection {
 
     String db = "vidattendence";
     String username = "root";
-    String password = "";
+    String password = "123456";
     Connection con = null;
     Statement stmt;
     ResultSet rs = null;
