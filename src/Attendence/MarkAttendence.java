@@ -377,7 +377,7 @@ public class MarkAttendence {
     }
 
     //==================================================================================================================
-    private int loadTrainingData1() {
+    int loadTrainingData1() {
         LOGGER.info("loading training data");
         trainPersonNumMat = null; // the person numbers during training
         CvFileStorage fileStorage;
